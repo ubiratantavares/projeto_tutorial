@@ -37,15 +37,30 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'api',
+    'artigo',
+    'artigo_autor',
+    'autor',
+    'base',
+    'base_autor',
+    'codigo',
+    'livro',
+    'livro_autor',
     'problema',
-    'referencia',
     'secao',
     'subsecao',
     'termo',
-    'tipo',
     'topico',
     'tutorial',
-
+    'tutorial_api',
+    'tutorial_artigo',
+    'tutorial_autor',
+    'tutorial_base',
+    'tutorial_codigo',
+    'tutorial_livro',
+    'tutorial_problema',
+    'tutorial_termo',
+    'tutorial_tutorial',
 ]
 
 MIDDLEWARE = [
@@ -130,3 +145,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+

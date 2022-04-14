@@ -4,11 +4,11 @@ from tutorial.models import Tutorial
 
 
 class TutorialAdmin(admin.ModelAdmin):
-    fields = ('topico', 'referencias', 'termos', 'problemas', 'nome', 'script', 'link', 'cod_disponivel',
-              'cod_implementado')
-    list_display = ['nome', 'link', 'script', 'cod_disponivel', 'cod_implementado']
+    fields = ('nome', 'link', 'topico')
+    list_display = ['nome', 'link', 'topico']
     search_fields = ['nome']
-    list_filter = ['topico', 'referencias', 'termos', 'problemas']
+    list_filter = ['topico']
 
 
 admin.site.register(Tutorial, TutorialAdmin)
+

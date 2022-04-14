@@ -4,8 +4,8 @@ from secao.models import Secao
 
 
 class SecaoAdmin(admin.ModelAdmin):
-    fields = ('tutorial', 'nome')
-    list_display = ['tutorial', 'nome']
+    fields = ('nome', 'tutorial')
+    list_display = ['nome', 'tutorial']
     search_fields = ['nome']
     list_filter = ['tutorial']
 

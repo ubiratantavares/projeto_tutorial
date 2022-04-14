@@ -4,8 +4,8 @@ from subsecao.models import Subsecao
 
 
 class SubsecaoAdmin(admin.ModelAdmin):
-    fields = ('secao', 'nome')
-    list_display = ['secao', 'nome']
+    fields = ('nome', 'secao')
+    list_display = ['nome']
     search_fields = ['nome']
     list_filter = ['secao']
 

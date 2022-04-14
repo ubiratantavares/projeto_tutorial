@@ -4,9 +4,10 @@ from termo.models import Termo
 
 
 class TermoAdmin(admin.ModelAdmin):
-    fields = ('nome', 'sigla')
-    list_display = ['nome', 'sigla']
+    fields = ('nome', 'descricao')
+    list_display = ['nome', 'descricao']
     search_fields = ['nome']
 
 
 admin.site.register(Termo, TermoAdmin)
+
