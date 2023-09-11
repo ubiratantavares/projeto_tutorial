@@ -1,12 +1,12 @@
 from django.contrib import admin
 
-from api.models import Api
+from api.models import API
 
 
-class ApiAdmin(admin.ModelAdmin):
-    fields = ('nome', 'link')
-    list_display = ['nome', 'link']
-    search_fields = ['nome']
+class APIAdmin(admin.ModelAdmin):
+    fields = ('name', 'link')
+    list_display = ['name', 'link']
+    search_fields = ['name']
 
 
-admin.site.register(Api, ApiAdmin)
+admin.site.register(API, APIAdmin)

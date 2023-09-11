@@ -4,9 +4,9 @@ from tutorial_tutorial.models import TutorialTutorial
 
 
 class TutorialTutorialAdmin(admin.ModelAdmin):
-    fields = ('tutorial_origem', 'tutorial_referencia', 'data_criacao')
-    list_display = ['tutorial_origem', 'tutorial_referencia', 'data_criacao']
-    list_filter = ['tutorial_origem', 'tutorial_referencia']
+    fields = ('origin', 'referenced')
+    list_display = ['origin', 'referenced']
+    list_filter = ['origin', 'referenced']
 
 
 admin.site.register(TutorialTutorial, TutorialTutorialAdmin)

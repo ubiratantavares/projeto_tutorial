@@ -4,10 +4,10 @@ from tutorial.models import Tutorial
 
 
 class TutorialAdmin(admin.ModelAdmin):
-    fields = ('nome', 'link', 'topico')
-    list_display = ['nome', 'link', 'topico']
-    search_fields = ['nome']
-    list_filter = ['topico']
+    fields = ('name', 'link', 'last_updated', 'category')
+    list_display = ['name', 'link', 'last_updated', 'category']
+    search_fields = ['name']
+    list_filter = ['category']
 
 
 admin.site.register(Tutorial, TutorialAdmin)

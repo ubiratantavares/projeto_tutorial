@@ -1,15 +1,14 @@
 from django.db import models
-from api.models import Api
+from api.models import API
 from tutorial.models import Tutorial
 
 from django.utils.timezone import now
 
 
-class TutorialApi(models.Model):
+class TutorialAPI(models.Model):
     tutorial = models.ForeignKey(Tutorial, on_delete=models.DO_NOTHING)
-    api = models.ForeignKey(Api, on_delete=models.DO_NOTHING)
-    data_criacao = models.DateTimeField(default=now)
-
+    api = models.ForeignKey(API, on_delete=models.DO_NOTHING)
+    creation_date = models.DateTimeField(default=now)
 
     class Meta:
-        db_table = 'tutorial_api'
+        db_table = 'tutorialapi'

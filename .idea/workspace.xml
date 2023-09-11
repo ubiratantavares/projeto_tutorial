@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a5f41f4-c65c-48b2-8822-7f16eb315ac9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/controle_tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projeto_tutorial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/article/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/migrations/0002_alter_artigoautor_data_criacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/migrations/0003_alter_artigoautor_options_remove_artigoautor_nome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artigo_autor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_author/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/author/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/migrations/0002_alter_baseautor_autor_alter_baseautor_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_autor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_author/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livro_autor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/migrations/0002_alter_secao_nome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsecao/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topico/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_api/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_api/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_wikipedia/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_article/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_artigo/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_author/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_autor/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_database/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_base/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_script/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_codigo/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_book/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_livro/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_problema/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_termo/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_tutorial/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_tutorial/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_tutorial/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_tutorial/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_tutorial/models.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JxgQwcjN006cfbpG0eXqA2Oj8p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wikipedia" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Dropbox\PC\Documents\dev\git\projetos\controle_tutorial\wikipedia" />
+      <recent name="C:\Users\DELL\Dropbox\PC\Documents\dev\git\projetos\controle_tutorial\tutorial_wikipedia" />
+      <recent name="C:\Users\DELL\Dropbox\PC\Documents\dev\git\projetos\controle_tutorial\tutorial_tutorial" />
+      <recent name="C:\Users\DELL\Dropbox\PC\Documents\dev\git\projetos\controle_tutorial\tutorial_script" />
+      <recent name="C:\Users\DELL\Dropbox\PC\Documents\dev\git\projetos\controle_tutorial\tutorial_database" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a5f41f4-c65c-48b2-8822-7f16eb315ac9" name="Changes" comment="" />
+      <created>1673025136047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673025136047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

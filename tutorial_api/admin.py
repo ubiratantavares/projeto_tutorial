@@ -1,13 +1,13 @@
 from django.contrib import admin
 
-from tutorial_api.models import TutorialApi
+from tutorial_api.models import TutorialAPI
 
 
-class TutorialApiAdmin(admin.ModelAdmin):
-    fields = ('tutorial', 'api', 'data_criacao')
-    list_display = ['tutorial', 'api', 'data_criacao']
+class TutorialAPIAdmin(admin.ModelAdmin):
+    fields = ('tutorial', 'api')
+    list_display = ['tutorial', 'api']
     list_filter = ['tutorial', 'api']
 
 
-admin.site.register(TutorialApi, TutorialApiAdmin)
+admin.site.register(TutorialAPI, TutorialAPIAdmin)
 

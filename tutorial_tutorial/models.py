@@ -6,10 +6,10 @@ from django.utils.timezone import now
 
 
 class TutorialTutorial(models.Model):
-    tutorial_origem = models.ForeignKey(Tutorial, related_name="tutoriais_refs", on_delete=models.DO_NOTHING)
-    tutorial_referencia = models.ForeignKey(Tutorial, related_name="tutoriais_origens",  on_delete=models.DO_NOTHING)
-    data_criacao = models.DateTimeField(default=now)
+    origin = models.ForeignKey(Tutorial, related_name="referenceds", on_delete=models.DO_NOTHING)
+    referenced = models.ForeignKey(Tutorial, related_name="origins",  on_delete=models.DO_NOTHING)
+    creation_date = models.DateTimeField(default=now)
 
 
     class Meta:
-        db_table = 'tutorial_tutorial'
+        db_table = 'tutorialtutorial'
